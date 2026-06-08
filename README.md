@@ -3,7 +3,8 @@
 ### Unity Game Developer with backend development experience and strong technical foundations in software engineering and data systems.
 
 
-I’m a Game Developer with a strong focus on Unity and interactive systems, currently seeking opportunities in game development.
+I’m a Game Developer with a strong focus on Unity and interactive systems, currently seeking opportunities in game development. Alongside game development, I have experience in backend development, Computer Vision, and Machine Learning through academic and personal projects.
+
 I have 2+ years of non-commercial development experience, including multiple Game Jams and an ongoing indie project published on itch.io.
 
 ---
@@ -42,13 +43,10 @@ Alongside game development, I also work as a Backend Developer and have experien
 
 ## Tech Stack
 
-**Primary:**
 - Unity (C#)
 - Git
 - SQL / NoSQL
 - Java
-
-**Secondary:**
 - Python
 - Unreal Engine (basic)
 - Data systems (OLAP / OLTP)
@@ -72,7 +70,6 @@ I am currently focused on:
 - Unity Game Development
 - Gameplay systems design
 - Building polished game prototypes
-- Joining a game development team
 
 ---
 
